@@ -28,9 +28,8 @@ Explore the live application: [Customer Support AI Agent](https://antqua-custome
 ---
 
 ## 🗂️ File Structure
-- **`app.py`**: Main Streamlit application.
+- **`main.py`**: Main Streamlit application.
 - **`requirements.txt`**: List of Python dependencies.
-- **`README.md`**: Project documentation.
 - **`data/`**: Sample datasets for orders and products.
 
 ---
