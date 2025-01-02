@@ -17,6 +17,14 @@ Explore the live application: [Customer Support AI Agent](https://antqua-custome
 - Use RAG to provide accurate answers to common customer questions.
 - Query PDFs or structured data for reliable replies.
 
+---
+
+## 🛠️ Key Capabilities
+- **Database Querying**: Fetch order and product details directly using AI (no custom SQL required).
+- **RAG Functionality**: AI processes PDF content to answer FAQs with verified data.
+- **Multi-Agent Architecture**: Assign specific tasks like order lookups or FAQ handling to sub-agents.
+- **Cancellation Assistance**: Automates policy lookups to assist with cancellations interactively.
+
 
 
 
