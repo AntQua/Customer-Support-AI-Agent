@@ -36,9 +36,16 @@ Explore the live application: [Customer Support AI Agent](https://antqua-custome
 
 ## 🧰 Built With
 - **[LangFlow](https://github.com/langflow/langflow)**: Drag-and-drop AI workflow builder.
+  - Below is the LangFlow workflow built for this project:
+  
+    ![LangFlow Workflow](Resourses/LangFlow_workflow.png)
+    
+  - The JSON file for the workflow setup is available in the repository: [Resourses/Customer Support.json](Resourses/Customer%20Support.json)
+
 - **[Streamlit](https://streamlit.io/)**: Python-based web app framework.
 - **RAG**: Retrieval-Augmented Generation for contextually accurate responses.
 - **[Astra DB](https://www.datastax.com/astra)**: Vector-enabled database for data storage and retrieval.
+
 
 
 
