@@ -25,6 +25,21 @@ Explore the live application: [Customer Support AI Agent](https://antqua-custome
 - **Multi-Agent Architecture**: Assign specific tasks like order lookups or FAQ handling to sub-agents.
 - **Cancellation Assistance**: Automates policy lookups to assist with cancellations interactively.
 
+---
+
+## 🗂️ File Structure
+- **`app.py`**: Main Streamlit application.
+- **`requirements.txt`**: List of Python dependencies.
+- **`README.md`**: Project documentation.
+- **`data/`**: Sample datasets for orders and products.
+
+---
+
+## 🧰 Built With
+- **[LangFlow](https://github.com/langflow/langflow)**: Drag-and-drop AI workflow builder.
+- **[Streamlit](https://streamlit.io/)**: Python-based web app framework.
+- **RAG**: Retrieval-Augmented Generation for contextually accurate responses.
+- **[Astra DB](https://www.datastax.com/astra)**: Vector-enabled database for data storage and retrieval.
 
 
 
