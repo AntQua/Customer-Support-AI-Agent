@@ -9,7 +9,8 @@ load_dotenv()
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "a7fcf804-b9de-4421-8750-bf05eadfbf1e"
 FLOW_ID = "7e37cf44-f782-4f33-84ca-f4ddeb29bf4f"
-APPLICATION_TOKEN = os.environ.get("APP_TOKEN")
+#APPLICATION_TOKEN = os.environ.get("APP_TOKEN")
+APPLICATION_TOKEN = st.secrets["APP_TOKEN"]
 ENDPOINT = "customer" # The endpoint name of the flow
 
 
